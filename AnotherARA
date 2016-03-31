@@ -1,172 +1,1280 @@
-#EXTM3U  By www.iptv4free.com
-#EXTINF:-1,KSA 1 
-http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel02/_definst_/live/stream1.m3u8
-#EXTINF:-1,KSA 2 By www.iptv4free.com
-http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel03/_definst_/live/stream1.m3u8
-http://109.200.24.18:8000/get.php?username=nqashalhob&password=nqashalhob&type=m3u&output=mpegts
-#EXTINF:-1,beIN SPORTS1HD By www.iptv4free.com
-http://185.56.30.123:8082/TV4001
-#EXTINF:-1,beIN SPORTS 2HD
-http://185.56.30.123:8082/TV4002
-#EXTINF:-1,beIN SPORTS 3HD
-http://185.56.30.123:8082/TV4003
-#EXTINF:-1,beIN SPORTS 4HD
-http://185.56.30.123:8082/TV4004
-#EXTINF:-1,beIN SPORTS 5HD By www.iptv4free.com
-http://185.56.30.123:8082/TV4005
-#EXTINF:-1,beIN SPORTS 6HD
-http://185.56.30.123:8082/TV4006
-#EXTINF:-1,beIN SPORTS 7HD
-http://185.56.30.123:8082/TV4007
-#EXTINF:-1,beIN SPORTS 8HD
-http://185.56.30.123:8082/TV4008
-#EXTINF:-1,beIN SPORTS 9HD By www.iptv4free.com
-http://185.56.30.123:8082/TV4009
-#EXTINF:-1,beIN SPORTS 10HD
-http://185.56.30.123:8082/TV4010
-#EXTINF:-1,beIN SPORTS 11HD
-http://185.56.30.123:8082/TV4011
-#EXTINF:-1,beIN SPORTS 12HD By www.iptv4free.com
-http://185.56.30.123:8082/TV4012
-#EXTINF:-1,beIN SPORTS 1HD FR
-http://185.56.30.123:8082/TV4013
-#EXTINF:-1,beIN SPORTS 2HD FR
-http://185.56.30.123:8082/TV4014
-#EXTINF:-1,beIN SPORTS 3 FR
-http://185.56.30.123:8082/TV4015
-#EXTINF:-1,beIN MOVIES 1HD By www.iptv4free.com
-http://185.56.30.123:8082/TV4016
-#EXTINF:-1,beIN MOVIES 2HD
-http://185.56.30.123:8082/TV4017
-#EXTINF:-1,FUTURE TV
-http://185.56.30.123:8082/TV6000
-#EXTINF:-1,LBC SAT
-http://185.56.30.123:8082/TV6001
-#EXTINF:-1,PRO CINEMA By www.iptv4free.com
-http://185.56.30.123:8082/TV6004
-#EXTINF:-1,OTV
-http://185.56.30.123:8082/TV6008
-#EXTINF:-1,ROTANA MUSIC
-http://185.56.30.123:8082/TV6012
-#EXTINF:-1,ROTANA CINEMA KSA
-http://185.56.30.123:8082/TV6013
-#EXTINF:-1,ROTANA CINEMA EGY
-http://185.56.30.123:8082/TV6014
-#EXTINF:-1,ROTANA CLASSIC
-http://185.56.30.123:8082/TV6015
-#EXTINF:-1,ROTANA CLIP By www.iptv4free.com
-http://185.56.30.123:8082/TV6016
-#EXTINF:-1,ROTANA KHALIJI
-http://185.56.30.123:8082/TV6017
-#EXTINF:-1,ROTANA MASR
-http://185.56.30.123:8082/TV6018
-#EXTINF:-1,LDC
-http://185.56.30.123:8082/TV6022
-#EXTINF:-1,DUBAI ONE
-http://185.56.30.123:8082/TV6025
-#EXTINF:-1,DUBAI SPORTS 3
-http://185.56.30.123:8082/TV6026
-#EXTINF:-1,DUBAI TV
-http://185.56.30.123:8082/TV6028
-#EXTINF:-1,MBC 1
-http://185.56.30.123:8082/TV6029
-#EXTINF:-1,MBC 2
-http://185.56.30.123:8082/TV6030
-#EXTINF:-1,MBC 3
-http://185.56.30.123:8082/TV6031
-#EXTINF:-1,MBC 4
-http://185.56.30.123:8082/TV6032
-#EXTINF:-1,MBC ACTION
-http://185.56.30.123:8082/TV6033
-#EXTINF:-1,MBC BOLLYWOOD
-http://185.56.30.123:8082/TV6034
-#EXTINF:-1,MBC DRAMA
-http://185.56.30.123:8082/TV6035
-#EXTINF:-1,MBC MAX
-http://185.56.30.123:8082/TV6036
-#EXTINF:-1,ZEE AFLAM
-http://185.56.30.123:8082/TV6037
-#EXTINF:-1,NBN
-http://185.56.30.123:8082/TV6038
-#EXTINF:-1,ALMANAR
-http://185.56.30.123:8082/TV6039
-#EXTINF:-1,ALJADEED
-http://185.56.30.123:8082/TV6040
-#EXTINF:-1,MTV LEBANON By www.iptv4free.com
-http://185.56.30.123:8082/TV6041
-#EXTINF:-1,B4U AFLAM
-http://185.56.30.123:8082/TV6042
-#EXTINF:-1,B4U PLUS
-http://185.56.30.123:8082/TV6043
-#EXTINF:-1,ZEE ALWAN
-http://185.56.30.123:8082/TV6045
-#EXTINF:-1,TF1 HD
-http://185.56.30.123:8082/TV6046
-#EXTINF:-1,M6 HD
-http://185.56.30.123:8082/TV6047
-#EXTINF:-1,D8
-http://185.56.30.123:8082/TV6048
-#EXTINF:-1,W9
-http://185.56.30.123:8082/TV6049
-#EXTINF:-1,ALMAGHRIBIA
-http://185.56.30.123:8082/TV6051
-#EXTINF:-1,2M MONDE
-http://185.56.30.123:8082/TV6052
-#EXTINF:-1,TV A3
-http://185.56.30.123:8082/TV6055
-#EXTINF:-1,SAMIRA TV
-http://185.56.30.123:8082/TV6056
-#EXTINF:-1,NESSMA TV
-http://185.56.30.123:8082/TV6057
-#EXTINF:-1,AL AOULA
-http://185.56.30.123:8082/TV6065
-#EXTINF:-1,TUNISIA 2
-http://185.56.30.123:8082/TV6073
-#EXTINF:-1,ALMASRAWYA By www.iptv4free.com
-http://185.56.30.123:8082/TV6129
-#EXTINF:-1,MBC MASR 2
-http://185.56.30.123:8082/TV6186
-#EXTINF:-1,ALJANOUBYA
-http://185.56.30.123:8082/TV6220
-#EXTINF:-1,ALHIWAR ATOUNSI
-http://185.56.30.123:8082/TV6225
-#EXTINF:-1,MBC PRO SPORTS 1 HD
-http://185.56.30.123:8082/TV6301
-#EXTINF:-1,MBC PRO SPORTS 2 HD
-http://185.56.30.123:8082/TV6302
-#EXTINF:-1,MBC PRO SPORTS 3 HD
-http://185.56.30.123:8082/TV6303
-#EXTINF:-1,MBC PRO SPORTS 4 HD
-http://185.56.30.123:8082/TV6304
-#EXTINF:-1,MBC MASR
-http://185.56.30.123:8082/TV7026
-#EXTINF:-1,ZAGROS
-http://185.56.30.123:8082/TV7027
-#EXTINF:-1,IRAQIA NEWS
-http://185.56.30.123:8082/TV7028
-#EXTINF:-1,ZEE LIVING
-http://185.56.30.123:8082/TV7031
-#EXTINF:-1,NBC
-http://185.56.30.123:8082/TV7033
-#EXTINF:-1,ASUMARIA
-http://185.56.30.123:8082/TV7035
-#EXTINF:-1,ALAWHAD
-http://185.56.30.123:8082/TV7036
-#EXTINF:-1,MEDI 1 TV By www.iptv4free.com
-http://185.56.30.123:8082/TV7039
-#EXTINF:-1,NOUR TV
-http://185.56.30.123:8082/TV7041
-#EXTINF:-1,NOUR SHAM
-http://185.56.30.123:8082/TV7042
-#EXTINF:-1,beIN SPORTS NEWS HD
-http://185.56.30.123:8082/TV7043
-#EXTINF:-1,IRAQ EDU
-http://185.56.30.123:8082/TV7044
-#EXTINF:-1,KSA QURAN
-http://185.56.30.123:8082/TV0623
-#EXTINF:-1,KSA SUNNA
-http://185.56.30.123:8082/TV0624
-#EXTINF:-1,EMIRATES
-http://185.56.30.123:8082/TV0627
-#EXTINF:-1,AL ARABIYA
-http://185.56.30.123:8082/TV0628
+#EXTM3U
+
+#EXTGRP: Al Maghreb 
+
+Tunisia
+
+#EXTINF:42,Al Janoubiya
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_janoubiya
+
+#EXTINF:22, tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_mustakillah_tv.png", Almustakillah TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_moustakilla
+
+#EXTINF:32, Ettounsiya TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_tunisia
+
+#EXTINF:64, tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/atessia_tv_tn.png", Atessia TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/attassia_tv
+
+#EXTINF:130, Hannibal TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/hanibal
+
+#EXTINF:147, tvg-logo="http://www.tunisvista.com/medias/M-Tunisia-TV-Tunisie-Live-MTunisia-Live.jpg", M Tunisia
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/m_tunisia
+
+#EXTINF:169, Nessma TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/nessma
+
+#EXTINF:226, tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tnn_tn.png", TNN
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/tnn
+
+#EXTINF:213, tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tunisna_tv.png", Tunisna TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/tounesna
+
+#EXTINF:216, tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tv_tunisia1.png", TV Tunisia 1
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/tunisia_national_1
+
+#EXTINF:217, tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tv_tunisia2.png", TV Tunisia 2
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/tunisia_national_2
+
+#EXTINF:220, Zitouna TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/zaytoona
+
+#EXTINF:15, tvg-logo="http://www.slateafrique.com/sites/default/files/imagecache/article_v2/20130628/rss_1372376163_hidaya-270613-v_0.jpg", Zitouna Hidaya
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/zitouna_hidaya
+
+#EXTINF:-1,beinHD_Sports_HD1 By www.iptv4free.com
+http://37.187.24.177:80/slim/slim/699.ch
+
+#EXTINF:-1,beinHD_Sports_HD2
+http://37.187.24.177:80/slim/slim/700.ch
+
+#EXTINF:-1,beinHD_Sports_HD3
+http://37.187.24.177:80/slim/slim/701.ch
+
+#EXTINF:-1,beinHD_Sports_HD4
+http://37.187.24.177:80/slim/slim/702.ch
+
+#EXTINF:-1,beinHD_Sports_HD5
+http://37.187.24.177:80/slim/slim/703.ch
+
+#EXTINF:-1,beinHD_Sports_HD6
+http://37.187.24.177:80/slim/slim/704.ch
+
+#EXTINF:-1,beinHD_Sports_HD7 By www.iptv4free.com
+http://37.187.24.177:80/slim/slim/705.ch
+
+#EXTINF:-1,beinHD_Sports_HD8
+http://37.187.24.177:80/slim/slim/706.ch
+
+#EXTINF:-1,beinHD_Sports_HD9
+http://37.187.24.177:80/slim/slim/707.ch
+
+#EXTINF:-1,beinHD_Sports_HD10
+http://37.187.24.177:80/slim/slim/708.ch
+
+#EXTINF:-1,beinHD_Sports_HD11
+http://37.187.24.177:80/slim/slim/709.ch
+
+#EXTINF:-1,beinHD_Sports_HD12
+http://37.187.24.177:80/slim/slim/710.ch
+
+#EXTINF:-1,BEINSPORT FR1 By www.iptv4free.com
+http://evolive-tv.com:8000/live/test/test/65.ts
+
+#EXTINF:-1,BEINSPORT FR2
+http://evolive-tv.com:8000/live/test/test/66.ts
+
+#EXTINF:-1,BEINSPORT FR3
+http://evolive-tv.com:8000/live/test/test/67.ts
+
+#EXTINF:-1,Alkass 2 HD
+http://evolive-tv.com:8000/live/test/test/305.ts
+
+#EXTINF:-1,BEINSPORT 1
+http://evolive-tv.com:8000/live/test/test/207.ts
+
+#EXTINF:-1,BEINSPORT 2
+http://evolive-tv.com:8000/live/test/test/206.ts
+
+#EXTINF:-1,BEINSPORT 3
+http://evolive-tv.com:8000/live/test/test/209.ts
+
+#EXTINF:-1,beINSports 4 By www.iptv4free.com
+http://evolive-tv.com:8000/live/test/test/180.ts
+
+#EXTINF:-1,beINSports 5
+http://evolive-tv.com:8000/live/test/test/181.ts
+
+#EXTINF:-1,BEINSPORT6
+http://evolive-tv.com:8000/live/test/test/56.ts
+
+#EXTINF:-1,BEINSPORT 7
+http://evolive-tv.com:8000/live/test/test/57.ts
+
+#EXTINF:-1,BEINSPORT 8
+http://evolive-tv.com:8000/live/test/test/58.ts
+
+#EXTINF:-1,BEINSPORT 9
+http://evolive-tv.com:8000/live/test/test/59.ts
+
+#EXTINF:-1,BEINSPORT 10
+http://evolive-tv.com:8000/live/test/test/60.ts
+
+#EXTGRP: Al Sham
+
+#EXTINF:154,Al-Iman TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/aliman_tv
+
+#EXTINF:48,  tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_jadeed.png", Al Jadeed Sat
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/aljadeed
+
+#EXTINF:19, Al Manar
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_manar
+
+#EXTINF:37, Al Mayadeen
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_mayaden
+
+#EXTINF:127, Future TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/future
+
+#EXTINF:142, LBC Sat
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/lbc
+
+#EXTINF:143, LDC
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/ldc
+
+#EXTINF:159,  tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lb.png", MTV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/mtv
+
+#EXTINF:166, tvg-logo="http://www.lyngsat-logo.com/logo/tv/nn/nbn_lb.png", NBN 
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/nbn
+
+#EXTINF:177, tvg-logo="http://www.lyngsat-logo.com/logo/tv/nn/nour_sat_lb.png", Noursat
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/noursat
+
+#EXTINF:156, Nour El Shabeb
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/noursat_alchabab
+
+#EXTINF:178, tvg-logo="http://www.lyngsat-logo.com/logo/tv/oo/otv_lb.png", OTV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/otv_lebanon
+
+#EXTINF:145, Tele Liban
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/lebanon_tv
+
+#EXTINF:128, tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_ikhbaria_sy.png", Alikhbaria Syria
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_ekhbariya_al_soriya
+
+#EXTINF:204, Syria Drama
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/syria_drama
+
+#EXTINF:205, Syria Sat
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/syria
+
+#EXTINF:197, Sama TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sama_tv
+
+#EXTINF:33, Al Aqsa
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_aqsa
+
+#EXTINF:54,  Al Quds 
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/alqudis
+
+#EXTINF:134,  Jordan TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/jordan
+
+#EXTINF:181, Palestine
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/palestine
+
+
+
+
+
+#EXTGRP: Kids
+
+#EXTINF:7, Ajyal
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/ajyal
+
+#EXTINF:49, Jeem
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/aljazeera_children
+
+#EXTINF:68, Baraem
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/baraem
+
+#EXTINF:104, Cartoon Network Arabic
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/cartoon_network
+
+#EXTINF:139, Karameesh
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/karameesh
+
+#EXTINF:151, tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_3.png", MBC3
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/mbc_3
+
+#EXTINF:175, tvg-logo="http://www.satexpat.com/img/cha/jo/noonTV_95x72.gif", Noon TV 
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/noon_tv
+
+#EXTINF:202, Spacetoon
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/spacetoon
+
+#EXTINF:207, Taha Tv
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/taha_tv
+
+#EXTINF:214, Toyor Al Janah
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/toyor_al_janah
+
+#EXTINF:574, Disney XD 
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/disney_xd
+
+#EXTINF:650,OSN Movies Kids
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_movies_kids
+
+#EXTINF:92, Gulli
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/gulli_fr
+
+#EXTINF:146, Disney Junior
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/disney
+
+
+
+#EXTGRP: Drama
+
+#EXTINF:149, tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_1.png", MBC1
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/mbc_1
+
+#EXTINF:150, tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_2.png", MBC2
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/mbc_2
+
+#EXTINF:152, tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_4.png", MBC4
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/mbc_4
+
+#EXTINF:153, tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_action.png", MBC Action
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/mbc_action
+
+#EXTINF:154, tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_bollywood.png", MBC Bollywood
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/mbc_bollywood
+
+#EXTINF:155, tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_drama.png", MBC Drama
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/mbc_drama
+
+#EXTINF:157, tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_misr.png", MBC Masr
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/mbc_masr
+
+#EXTINF:156, tvg-logo="http://www.sat-address.com/f/pics/logotipi/MBC-Maser-2_o.jpg", MBC Masr 2
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/mbc_masr_2
+
+#EXTINF:158, tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_max.png", MBC MAX 
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/mbc_max
+
+#EXTINF:162, Majestic Cinema
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/majestic_cinema
+
+#EXTINF:57, Art Aflam 1
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/art_aflam_1
+
+#EXTINF:58, Art Aflam 2
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/art_aflam_2
+
+#EXTINF:59, Art Cinema
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/art_cinema
+
+#EXTINF:60, Art Hekayat 2
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/art_hekayat_2
+
+#EXTINF:61, Art Hekayat
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/art_hekayat
+
+#EXTINF:216, Melody Aflam
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/melody_aflam_hd
+
+#EXTINF:218, Melody Drama
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/melody_drama_hd
+
+#EXTINF:163, tvg-logo=http://www.tvspice.com/images/channels-images/melody-classic.jpg", Melody Classic
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/melody_classic
+
+#EXTINF:185, Rotana Aflam
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/rotana_aflam
+
+#EXTINF:186, Rotana Classic
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/rotana_classic
+
+#EXTINF:188, Rotana Khalijia 
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/rotana_khaligi
+
+#EXTINF:189, Rotana Masriya
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/rotana_masriya
+
+#EXTINF:191, Rotana Cinema
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/rotana_cinema
+
+#EXTINF:232, Tok Tok Cinema
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/toktok_aflam
+
+
+
+#EXTGRP: Egypt
+
+#EXTINF:2, Alhayat
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/alhayat
+
+#EXTINF:260, Alhayat 2
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/alhayat_2
+
+#EXTINF:2, tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/alhayat_series.png", Alhayah Mosalsalat
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/alhayat_musalsalat
+
+#EXTINF:16, tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_kahera_wal_nes.png", Al Kahera Wal Nes
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_kahera_wal_nas
+
+#EXTINF:228, Al Ahly TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_ahly_tv
+
+#EXTINF:20, Al Masriya
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_masriyah
+
+#EXTINF:21, Al Mehwar
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_mehwar
+
+#EXTINF:39, tvg-logo="http://www.lyngsat-logo.com/logo/tv/ee/ertu1_egypt.png", Al Oula
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_oula
+
+#EXTINF:31, tvg-logo="http://www.lyngsat-logo.com/logo/tv/ee/ertu2_egypt.png", Al Thanya
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_thaniya
+
+#EXTINF:218,Al Nahar
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_nahar
+
+#EXTINF:24, Al Nahar Drama
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_nahar_drama
+
+#EXTINF:222, tvg-logo="http://www.sat-address.com/f/pics/logotipi/Al-Nahar-Cinema_o.jpg", Al Nahar Cinema
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_nahar_cinema
+
+#EXTINF:224, tvg-logo="http://www.sat-address.com/f/pics/logotipi/Al-Nahar-Nour_o.jpg", Al Nahar Nour
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_nahar_noor
+
+#EXTINF:94, Blue Nile
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/blue_nile
+
+#EXTINF:98, tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cbc_eg.png", CBC TV 
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/cbc
+
+#EXTINF:95, tvg-logo="http://www.satexpat.com/img/cha/eg/cbcTwo_95x60.gif", CBC Two 
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/cbc_2
+
+#EXTINF:96, CBC Drama
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/cbc_drama
+
+#EXTINF:97, tvg-logo="http://www.satexpat.com/img/cha/eg/cbc_sofra_95x86.gif", CBC Sofra
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/cbc_sofra
+
+#EXTINF:100, Cairo Cinema
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/cairo_cinema
+
+#EXTINF:101, Cairo Drama
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/cairo_drama
+
+#EXTINF:105, Cima
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/cima
+
+#EXTINF:108, tvg-logo="http://www.satexpat.com/img/cha/eg/dream1_95x40.gif", Dream 1 
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/dream_1
+
+#EXTINF:164, Moga Comedy
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/moga_comedy
+
+#EXTINF:174, Nile TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/nile_tv
+
+#EXTINF:172, Nile Drama
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/nile_drama
+
+#EXTINF:170, Nile Cinema
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/nile_cinema
+
+#EXTINF:171, Nile Comedy
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/nile_comedy
+
+#EXTINF:232,Nile Sport
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/nile_sport
+
+#EXTINF:173, Nile News
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/nile_news
+
+#EXTINF:180, On Television
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/on_tv
+
+#EXTINF:183, Panorama Drama
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/panorama_drama
+
+#EXTINF:182, Panorama Drama 2
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/panorama_drama_2
+
+#EXTINF:288,Panorama Food 
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/panorama_food
+
+#EXTINF:195,  tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sada_el_balad_tv.png", Sada Al Balad
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sada_al_balad
+
+#EXTINF:232, Tok Tok Cinema
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/toktok_aflam
+
+
+#EXTGRP: Iraq
+
+#EXTINF:386, Al Araby TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_araby_tv
+
+#EXTINF:6, tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/afaq_tv.png", Afaq Satellite Channel
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/afaq_tv
+
+#EXTINF:9, tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_ahad_tv_iq.png", Al-Ahad Satellite Channel
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_ahd
+
+#EXTINF:396,Al Anbar
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_anbar
+
+#EXTINF:384,Al Rafidain
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_rafidain
+
+#EXTINF:11, Al Baghdadia
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_baghdadia
+
+#EXTINF:382, tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_baghdadia_iq_2.png", Al Baghdadia 2
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_baghdadia_2
+
+#EXTINF:364,Al Ghadeer
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_ghadeer
+
+#EXTINF:12, Aldiyar Sat
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_diyar
+
+#EXTINF:15,  tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_iraqya_2.png", Al-Iraqiya
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_iraqiya
+
+#EXTINF:20,  tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/almada_tv_iq.png", Al Mada TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_mada
+
+#EXTINF:136, tvg-logo="http://i4.satexpat.com/cha/iq/al-mawsleya-95x75.gif", Al Mawsleya
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_mawsleya
+
+#EXTINF:26,  tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_rafidain_tv_iq.png", Al Rafidain TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_rafidain
+
+#EXTINF:390,Alrai Tv
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/alrai_tv
+
+#EXTINF:29, Al Sharqiya
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_sharqiya
+
+#EXTINF:30, Al Sumaria
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_sumaria
+
+#EXTINF:34, tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/alforat_iq_tv.png", Alforat TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_forat
+
+#EXTINF:35,  tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/alhurra_tv_iq.png", Alhurra TV Iraq
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_hurra_iraq
+
+#EXTINF:36, Al Maaref
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_maaref
+
+#EXTINF:40, Al Rasheed
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_rasheed
+
+#EXTINF:43, Alanwar
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/alanwar
+
+#EXTINF:45, Albabelyia TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/albabeleyia
+
+#EXTINF:66, Baghdad
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/baghdad
+
+#EXTINF:141,Dijlah TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/dijlah_tv
+
+#EXTINF:133, Ishtar
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/ishtar
+
+#EXTINF:142, Karbala Satellite Channel
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/karbala_tv
+
+#EXTINF:360, tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_remas_music_tv.png", Alremas TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/music_alremas
+
+#EXTINF:368,Safa TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/safa_tv
+
+#EXTINF:412,KNN
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/knn
+
+#EXTINF:414,Kurdmax TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/kurdmax_tv
+
+#EXTINF:416,Zagros
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/zagros
+
+#EXTINF:418,Kurdsat
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/kurdsat
+
+
+#EXTGRP: Gulf
+
+#EXTINF:3, Abu Dhabi Drama
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/abu_dhabi_drama
+
+#EXTINF:4, tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_emarat_ae_tv.png", Emarat TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/abu_dhabi_emarat
+
+#EXTINF:5, tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/abu_dhabi_tv_ae.png", Abu Dhabi TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/abu_dhabi
+
+#EXTINF:18, Al Majd
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_majd
+
+#EXTINF:25, tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_quran_al_kareem_tv.png", Al Quraan Al Kareem TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_quran_al_karim
+
+#EXTINF:28, Al Resalah
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_resalah
+
+#EXTINF:44, Al Arabiya
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/alarabiya
+
+#EXTINF:49, Jeem
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/aljazeera_children
+
+#EXTINF:50, Al Jazeera Documentary
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/aljazeera_doc
+
+#EXTINF:51, Al Jazeera Mubasher Misr
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/aljazeera_misr
+
+#EXTINF:52, Al Jazeera Channel
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/aljazeera
+
+#EXTINF:67, Bahrain
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/bahrain
+
+#EXTINF:69, Baynounah Tv
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/baynounah_tv
+
+#EXTINF:106, tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_quran_al_kareem_tv.png", Al Quraan Al Kareem TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/coran
+
+#EXTINF:110, Dubai One
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/dubai_one
+
+#EXTINF:111, tvg-logo="http://www.sat-address.com/f/pics/logotipi/Dubai-TV-Europe_o.jpg", Dubai Al Oula
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/dubai
+
+#EXTINF:119, Fatafeat
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/fatafeat
+
+#EXTINF:126, Funoon
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/funoon
+
+#EXTINF:132, Iqraa 
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/iqra
+
+#EXTINF:136, tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/saudi_tv1.png", Saudi TV 1
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/ksa_1
+
+#EXTINF:137, tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/saudi_tv2.png", Saudi TV 2
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/ksa_2
+
+#EXTINF:168, Nat Geo Ad
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/nat_geo_ad
+
+#EXTINF:176, Noor dubai
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/noor_dubai
+
+#EXTINF:184, Qatar
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/qatar
+
+#EXTINF:196, tvg-logo="http://www.lyngsat-logo.com/logo/tv/dd/dubai_ae_sama.png", Sama Dubai
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sama_dubai
+
+#EXTINF:219, Wanasah
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/wanasah
+
+#EXTINF:231, Yemen
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/yemen
+
+#EXTINF:36, Zee Alwan
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/zee_alwan
+
+#EXTINF:221, Zee Aflam
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/zee_aflam
+
+#EXTINF:92,B4U Aflam
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/b4u_aflam
+
+
+
+
+#EXTGRP: Al Maghreb 
+
+Tunisia
+
+#EXTINF:42,Al Janoubiya
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_janoubiya
+
+#EXTINF:22, tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_mustakillah_tv.png", Almustakillah TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_moustakilla
+
+#EXTINF:32, Ettounsiya TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_tunisia
+
+#EXTINF:64, tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/atessia_tv_tn.png", Atessia TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/attassia_tv
+
+#EXTINF:130, Hannibal TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/hanibal
+
+#EXTINF:147, tvg-logo="http://www.tunisvista.com/medias/M-Tunisia-TV-Tunisie-Live-MTunisia-Live.jpg", M Tunisia
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/m_tunisia
+
+#EXTINF:169, Nessma TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/nessma
+
+#EXTINF:226, tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tnn_tn.png", TNN
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/tnn
+
+#EXTINF:213, tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tunisna_tv.png", Tunisna TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/tounesna
+
+#EXTINF:216, tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tv_tunisia1.png", TV Tunisia 1
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/tunisia_national_1
+
+#EXTINF:217, tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tv_tunisia2.png", TV Tunisia 2
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/tunisia_national_2
+
+#EXTINF:220, Zitouna TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/zaytoona
+
+#EXTINF:15, tvg-logo="http://www.slateafrique.com/sites/default/files/imagecache/article_v2/20130628/rss_1372376163_hidaya-270613-v_0.jpg", Zitouna Hidaya
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/zitouna_hidaya
+
+
+Morocco
+
+#EXTINF:1, 2M
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/2m
+
+#EXTINF:162, tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/medi1_tv.png", Medi 1 Sat
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/medi_1_sat
+
+#EXTINF:9, tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/snrt_1_tvm_eu.png", Al Aoula Maroc
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_aoula_maroc
+
+#EXTINF:17, tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_magharibia.png", Al Magharibia
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_maghribia
+
+#EXTINF:56, tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/snrt_4_arabiaa.png", Arrabia
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/arrabia
+
+#EXTINF:63, tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/snrt_6_assadissa.png", Assadissa
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/assadissa
+
+
+Libya
+#EXTINF:298,Libya Tv
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/libya_tv
+
+
+Algeria
+
+#EXTINF:42, tvg-logo="http://www.lyngsat-logo.com/logo/tv/ee/entv_1_canal_algerie.png", Canal AlgÃƒÂ©rie
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/algeria
+
+#EXTINF:46, tvg-logo="http://www.lyngsat-logo.com/logo/tv/ee/entv_3_al_thalitha.png", Thalitha TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/algeria_3
+
+#EXTINF:112, Dzair Tv
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/dzair_tv
+
+#EXTINF:113, EL DJAZAIRIA
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/el_djazairia
+
+#EXTINF:115, Echorouk Tv
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/echorouk_tv
+
+#EXTINF:116, El Heddaf TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/el_heddaf_tv
+
+#EXTINF:117, tvg-logo="http://www.lyngsat-logo.com/logo/tv/ee/ennahar_dz_tv.png", Ennahar TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/ennahar_tv
+
+#EXTINF:135, tvg-logo="http://www.lyngsat-logo.com/logo/tv/kk/kbc_dz.png", KBC
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/kbc_algeria
+
+#EXTINF:198, Samira Tv
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/samira_tv
+
+
+
+#EXTGRP: Sport
+
+#EXTINF:582, BT Sport 1
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/bt_sport_1
+
+#EXTINF:584, BT Sport 2
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/bt_sport_2
+
+#EXTINF:540, tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports1.png", Sky Sports 1
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/uk_sky_sport_1
+
+#EXTINF:542, tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports2.png", Sky Sports 2
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/uk_sky_sport_2
+
+#EXTINF:544, tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports3.png", Sky Sports 3
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/uk_sky_sport_3
+
+#EXTINF:546, tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports4.png", Sky Sports 4
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/uk_sky_sport_4
+
+#EXTINF:548, tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports4.png", Sky Sports 5
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/uk_sky_sport_5
+
+#EXTINF:550, tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports_f1.png", Sky Sports F1
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/uk_sky_sports_f1
+
+#EXTINF:552, tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports_f1.png", Sky Sports F1 UK
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sky_sports_f1_uk
+
+#EXTINF:556, tvg-logo="http://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png", EuroSport 1
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/eurosport_1_uk
+
+#EXTINF:82,tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_sport.png", Canal + Sport
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/canal_plus_sport
+
+#EXTINF:488, tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sky_de_sport.png", Sky Sport HD 1 DE
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sky_sport_hd_1_de
+
+#EXTINF:490, tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sky_de_sport.png", Sky Sport HD 2 DE
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sky_sport_hd_2_de
+
+#EXTINF:90, tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sky_de_bundesliga.png", Sky Bundesliga
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sky_bundesliga
+
+#EXTINF:506, tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor.png", Tivibu Spor
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/lig_tv_hd
+
+#EXTINF:70, tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/abu_dhabi_sports_ae.png", Abu Dhabi Sports 1
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/abu_dhabi_sports_1
+
+#EXTINF:70, tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/abu_dhabi_sports_ae.png", Abu Dhabi Sports 2
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/abu_dhabi_sports_2
+
+#EXTINF:288, Dubai Sports 1
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/dubai_sport_1
+
+#EXTINF:290, Dubai Sports 4
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/dubai_sport_4
+
+#EXTINF:71, Al Riyadiah
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/alriadia_sport
+
+#EXTINF:76, Dubai Sports 1
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/dubai_sport_1
+
+#EXTINF:42, tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_nahar_sport.png", Al-Nahar Sports
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_nahar_sport
+
+#EXTINF:90, Nile Sport
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/nile_sport
+
+#EXTINF:91, tvg-logo="http://www.lyngsat-logo.com/logo/tv/nn/neelain_tv_sd.png", Neelain TV 
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/neelain_sport
+
+#EXTINF:92, tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_iraqya_sports.png", Al Iraqia Sports
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/iraqia_sport
+
+#EXTINF:93, Al Kass
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/alkass_tv
+
+#EXTINF:128,  tvg-logo="http://www.lyngsat-logo.com/logo/tv/gg/gear_one.png", GearOne
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/gearone
+
+
+#EXTGRP: BeIN Sports
+
+#EXTINF:-1,beIN SPORTS News
+http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/02.m3u8
+
+#EXTINF:78, tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/be_in_sports_1.png", beIN SPORTS 1HD France
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/bein_sports_1_hd_fr
+
+#EXTINF:79, tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/be_in_sports_2.png", beIN SPORTS 2HD France
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/bein_sports_2_hd_fr
+
+#EXTINF:126, tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/be_in_sports_1.png", beIN SPORTS 1
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/bein_1
+
+#EXTINF:128, tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/be_in_sports_2.png", beIN SPORTS 2
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/bein_2
+
+#EXTINF:130, tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/be_in_sports_3.png", beIN SPORTS 3
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/bein_3
+
+#EXTINF:132, tvg-logo="http://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-4-hd.gif", beIN SPORTS 4
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/bein_4
+
+
+#EXTINF:80, tvg-logo="http://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-1-hd.gif", beIN SPORTS 1HD
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/bein_sport_1
+
+#EXTINF:81, tvg-logo="http://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-2-hd.gif", beIN SPORTS 2HD
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/bein_sport_2
+
+#EXTINF:82, tvg-logo="http://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-3-hd.gif", beIN SPORTS 3HD
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/bein_sport_3
+
+#EXTINF:83, tvg-logo="http://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-4-hd.gif", beIN SPORTS 4HD
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/bein_sport_4
+
+#EXTINF:84, tvg-logo="http://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-5-hd.gif", beIN SPORTS 5HD
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/bein_sport_5
+
+#EXTINF:85, tvg-logo="http://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-6-hd.gif", beIN SPORTS 6HD
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/bein_sport_6
+
+#EXTINF:86, tvg-logo="http://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-7-hd.gif", beIN SPORTS 7HD
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/bein_sport_7
+
+#EXTINF:87, tvg-logo="http://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-8-hd.gif", beIN SPORTS 8HD
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/bein_sport_8
+
+#EXTINF:88, tvg-logo="http://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-9-hd.gif", beIN SPORTS 9HD
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/bein_sport_9
+
+#EXTINF:89, tvg-logo="http://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-10-hd.gif", beIN SPORTS 10HD
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/bein_sport_10
+
+
+
+#EXTGRP: Music
+
+#EXTINF:360, tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_remas_music_tv.png", Alremas TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/music_alremas
+
+#EXTINF:6, Aghanina
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/aghanina
+
+#EXTINF:14, tvg-logo="http://www.tvspice.com/images/channels-images/music-haneen.jpg", Al Haneen Music
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_haneen_music
+
+#EXTINF:55, Arabica Music 
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/arabica_tv
+
+#EXTINF:152,Hawacom
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/hawacom
+
+#EXTINF:161, Mazzika
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/mazzika
+
+#EXTINF:222, Melody TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/melody_music_hd
+
+#EXTINF:220, Melody Hits
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/melody_hits_hd
+
+#EXTINF:165, Music Plus
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/music_plus
+
+#EXTINF:190, Rotana Mousica
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/rotana_music
+
+#EXTINF:187, Rotana Clip
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/rotana_clip
+
+
+#EXTGRP: News
+
+#EXTINF:44, Al Arabiya
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/alarabiya
+
+#EXTINF:10, Al Hadath
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_arabia_hadath
+
+#EXTINF:13, Al Ekhbariya
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_ekhbaria
+
+#EXTINF:128, tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_ikhbaria_sy.png", Alikhbaria Syria
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_ekhbariya_al_soriya
+
+#EXTINF:52, Al Jazeera Channel
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/aljazeera
+
+#EXTINF:37, Al Mayadeen
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_mayaden
+
+#EXTINF:274, ANN
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/ann
+
+#EXTINF:65, BBC Arabic
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/bbc_arabic
+
+#EXTINF:125, France24 Arabic
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/france24_arabic
+
+#EXTINF:193, RT Arabic
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/russia_alyaum
+
+#EXTINF:200, Al Sharqiya News
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sharqia_news
+
+
+
+ 
+#EXTGRP: Africa
+
+#EXTINF:107, RTD
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/djibouti
+
+#EXTINF:114, tvg-logo="http://www.lyngsat-logo.com/logo/tv/ee/ethiopia_somali_tv.png", ESTV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/estv
+
+#EXTINF:118, tvg-logo="http://www.lyngsat-logo.com/logo/tv/ee/eri_tv.png", ERI TV 1
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/eriteria_tv
+
+#EXTINF:131, Horn Cable TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/horn_cable_tv
+
+#EXTINF:138, Kalsan TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/kalsan_tv
+
+#EXTINF:188, LLBN Arabic
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/llbn
+
+#EXTINF:168, tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tv_de_mauritanie_1_mr.png", El Mouritaniya
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/mauritanie
+
+#EXTINF:426, TV Oromiyaa
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/oromia_tv
+
+#EXTINF:188, tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/royal_tv_so.png", Royal TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/royal_tv
+
+#EXTINF:194, SNTV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sntv
+
+#EXTINF:201, tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/somali_cable_uk.png", Somali Cable
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/somali_cable_tv
+
+#EXTINF:201, Somaliland National TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/somali_land
+
+#EXTINF:203, Sudan TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sudan_tv
+
+#EXTINF:458, Ashorooq TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/ashrooq_tv_sudan
+
+#EXTINF:209, tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tele_tchad.png", TÃƒÂ©lÃƒÂ© Tchad
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/tchad
+
+#EXTINF:218, Universal Somali TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/universal_somali_tv
+
+
+#EXTGRP: Russia
+
+#EXTINF:0, RT Arabic
+http://rt-lh.akamaihd.net/i/ch_03@325607/index_720p_av-b.m3u8
+
+#EXTINF:0, RT English
+http://rt-a.akamaihd.net/ch_01@325605/720p.m3u8
+
+#EXTINF:0, tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rt_espanol.png", RT EspaÃƒÂ±ol
+http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-HD/chunklist.m3u8
+
+#EXTINF:0, RT Doc
+http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
+
+#EXTINF:0, RT D
+http://rtmp.api.rt.com/hls/rtdru.m3u8
+
+#EXTINF:0, tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/perviy_internet_kanal_ru.png", PIK TV
+http://phone.pik-tv.com/live/mp4:piktv3pik3tv/playlist.m3u8
+
+#EXTINF:0, tvg-logo="http://brodilo.tv/images/brodilo_logo.png", Brodilo TV
+http://brodilo.tv/channel.php
+
+#EXTINF:0, MTV AM
+http://94.125.187.18/hlsam/lhigh/playlist.m3u8
+
+#EXTINF:0, Arirang
+http://worldlive-ios.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld4.m3u8
+
+#EXTINF:0, RBK
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+
+#EXTINF:0, Life News
+http://tv.life.ru/lifetv/720p/index.m3u8
+
+#EXTINF:0, Eska TV
+http://stream.smcloud.net/live/eskatv/playlist.m3u8
+
+#EXTINF:0, ÃÂ ÃÂ¸ÃÂ° ÃÂÃÂ¾ÃÂ²ÃÂ¾Ã‘ÂÃ‘â€šÃÂ¸
+http://rian.cdnvideo.ru:1935/rr/stream20/index.m3u8
+
+
+
+#EXTGRP: ** OSN ** (under maintenance)
+
+#EXTINF:616, tvg-logo=http://www.lyngsat-logo.com/logo/tv/oo/osn_cinema1_arabic.png", Cinema 1
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_cinema_1
+
+#EXTINF:618, tvg-logo=http://www.lyngsat-logo.com/logo/tv/oo/osn_cinema2_arabic.png", Cinema 2
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_cinema_2
+
+#EXTINF:632, tvg-logo=http://www.lyngsat-logo.com/logo/tv/oo/osn_fann.png", Fann
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_fnn
+
+#EXTINF:628, tvg-logo=http://www.lyngsat-logo.com/logo/tv/oo/osn_arabic_series.png", Musalsalat
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_series_arabic
+
+#EXTINF:614, tvg-logo="http://www.lyngsat-logo.com/logo/tv/oo/osn_al_yawm.png", AlYawm
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_alyawm
+
+#EXTINF:630, MBC Drama
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_mbc_drama
+
+#EXTINF:622, tvg-logo=http://content.osn.com/logo/channel/500x300/BO1.jpg", OSN Movies Box Office 1 HD
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_box_offiec_1
+
+#EXTINF:624, tvg-logo=http://content.osn.com/logo/channel/500x300/BO2.jpg", OSN Movies Box Office 2 HD
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_box_offiec_2
+
+
+#EXTINF:612, OSN First
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_first
+
+#EXTINF:660,OSN First More
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_first_more
+
+#EXTINF:620, tvg-logo=http://content.osn.com/logo/channel/500x300/OMC.jpg", OSN First Comdey HD
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_first_comdy_hd
+
+#EXTINF:650,OSN Movies Kids
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_movies_kids
+
+#EXTINF:626,OSN Movies HD
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_movies_hd
+
+#EXTINF:646,OSN Movies Drama
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_movies_drama
+
+#EXTINF:648,OSN Movies Premier
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_movies_premier
+
+#EXTINF:642,OSN Movies Action HD
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_movies_action_hd
+
+#EXTINF:644, tvg-logo=http://content.osn.com/logo/channel/500x300/OMX.jpg", OSN Movies Action HD +2
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_movies_action_2_hd
+
+#EXTINF:634, tvg-logo=http://content.osn.com/logo/channel/500x300/OYH.jpg", OSN Yahala HD
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_yahala_hd
+
+#EXTINF:658,OSN Shabab
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_shabab
+
+#EXTINF:636,OSN Yahala Shabab
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_yahala_shabab
+
+#EXTINF:638, tvg-logo=http://content.osn.com/logo/channel/500x300/OYA.jpg", OSN Yahala Drama
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_yahlaa_drama
+
+#EXTINF:640,OSN Fight HD
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_fight_hd
+
+#EXTINF:652,OSN Animal PLanet HD
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_anmal_planet_hd
+
+#EXTINF:654,OSN Star Movies
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_star_movies
+
+#EXTINF:656,OSN Star World
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_star_world
+
+#EXTINF:662,OSN Discovry HD
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_discovry_hd
+
+
+
+
+
+#EXTGRP:New Channels
+
+#EXTINF:494,Disney
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/disney
+#EXTINF:496,Gulli FR
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/gulli_fr
+#EXTINF:498,Sky 3D DE
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sky_3d_de
+#EXTINF:500,Sky Action HD DE
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sky_action_hd_de
+#EXTINF:502,Sky Atlantic HD DE
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sky_atlantic_hd_de
+#EXTINF:504,Sky Bundesliga HD 1 DE
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sky_bundesliga_hd_1_de
+#EXTINF:506,Sky Cinema HD DE
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sky_cinema_hd_de
+#EXTINF:508,Sky HD Fan Zone DE
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sky_hd_fan_zone_de
+#EXTINF:510,Sky Sport HD 1 DE
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sky_sport_hd_1_de
+#EXTINF:512,Sky Sport HD 2 DE
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sky_sport_hd_2_de
+#EXTINF:514,SKY Cinema 1
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sky_cinema_1
+#EXTINF:516,Sky Comedy
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sky_comedy
+#EXTINF:518,Eurosport DE
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/eurosport_de
+#EXTINF:520,Rai 1 IT
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/rai_1_it
+#EXTINF:522,Rai 2 IT
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/rai_2_it
+#EXTINF:524,Rai 3 IT
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/rai_3_it
+#EXTINF:526,Rai 4 IT
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/rai_4_it
+#EXTINF:528,LIG TV HD
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/lig_tv_hd
+#EXTINF:530,Rai Sport 1 IT
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/rai_sport_1_it
+#EXTINF:532,Italia 1 IT
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/italia_1_it
+#EXTINF:534,SKY SPORT 1
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sky_sport_1
+#EXTINF:536,Sky Uno IT
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sky_uno_it
+#EXTINF:538,Sky Sport 2 IT
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sky_sport_2_it
+#EXTINF:540,Sky Sport 3 IT
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sky_sport_3_it
+#EXTINF:542,Sky Calcio 1 IT
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sky_calcio_1_it
+#EXTINF:544,Sky Sport F1 IT
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sky_sport_f1_it
+#EXTINF:546,Sky Cinema HIT IT
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sky_cinema_hit_it
+#EXTINF:548,Sky Cinema Family IT
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sky_cinema_family_it
+#EXTINF:550,Sky Cinema 1 IT
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sky_cinema_1_it
+#EXTINF:552,Rai Gulp IT
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/rai_gulp_it
+#EXTINF:554,NUVOLARI IT
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/nuvolari_it
+#EXTINF:556,National Geographic Channel IT
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/national_geographic_channel_it
+#EXTINF:558,MTV MUSIC IT
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/mtv_music_it
+#EXTINF:560,BBC NEWS
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/bbc_news
+#EXTINF:562,BBC One
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/bbc_one
+#EXTINF:564,BBC Two
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/bbc_two
+#EXTINF:566, UK SKY SPORT 1
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/uk_sky_sport_1
+#EXTINF:568, UK SKY SPORT 2
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/uk_sky_sport_2
+#EXTINF:570, UK SKY SPORT 3
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/uk_sky_sport_3
+#EXTINF:572, UK SKY SPORT 4
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/uk_sky_sport_4
+#EXTINF:574, UK SKY SPORT 5
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/uk_sky_sport_5
+#EXTINF:576, UK Sky Sports F1
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/uk_sky_sports_f1
+#EXTINF:578,Sky Sports F1 UK
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sky_sports_f1_uk
+#EXTINF:580,Eurosport 1 UK
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/eurosport_1_uk
+#EXTINF:582,Sky Living UK
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sky_living_uk
+#EXTINF:584,Sky Movies Disney
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/sky_movies_disney
+#EXTINF:586,National Geography Wild
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/national_geography_wild
+#EXTINF:588,Discovery Channel UK
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/discovery_channel_uk
+#EXTINF:590,Discovery Science UK
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/discovery_science_uk
+#EXTINF:592,Channel 4
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/channel_4
+#EXTINF:594,Channel 5
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/channel_5
+#EXTINF:596,ESPN UK
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/espn_uk
+#EXTINF:598,Disney XD
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/disney_xd
+#EXTINF:600,Cartoon Network UK
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/cartoon_network_uk
+#EXTINF:602,Food Network
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/food_network
+#EXTINF:604,BT Sport 1
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/bt_sport_1
+#EXTINF:606,BT Sport 2
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/bt_sport_2
+#EXTINF:608,B4U Movies
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/b4u_movies
+#EXTINF:610,Osn AlYawm
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_alyawm
+#EXTINF:612,Osn Cinema 1
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_cinema_1
+#EXTINF:614,Osn Cinema 2
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_cinema_2
+#EXTINF:616,Osn First
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_first
+#EXTINF:618,Osn First Comdy HD
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_first_comdy_hd
+#EXTINF:620,Osn Series Arabic
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_series_arabic
+#EXTINF:622,Osn MBC Drama
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_mbc_drama
+#EXTINF:624,Osn FNN
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_fnn
+#EXTINF:626,Osn Yahala HD
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_yahala_hd
+#EXTINF:628,Osn Yahala SHabab
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_yahala_shabab
+#EXTINF:630,Osn Yahlaa Drama
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_yahlaa_drama
+#EXTINF:632,Osn Fight HD
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_fight_hd
+#EXTINF:634,Osn Box Office 1
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_box_office_1
+#EXTINF:636,Osn Box Office 2
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_box_office_2
+#EXTINF:638,Osn Movies HD
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_movies_hd
+#EXTINF:640,Osn Movies Action HD
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_movies_action_hd
+#EXTINF:642,Osn Movies Action 2 HD
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_movies_action_2_hd
+#EXTINF:644,Osn Movies Drama
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_movies_drama
+#EXTINF:646,Osn Movies Premier
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_movies_premier
+#EXTINF:648,Osn Movies Kids
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_movies_kids
+#EXTINF:650,Osn Animal PLanet HD
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_animal_planet_hd
+#EXTINF:652,Osn Star Movies
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_star_movies
+#EXTINF:654,Osn Star world
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_star_world
+#EXTINF:656,Osn Shabab
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_shabab
+#EXTINF:658,Osn First More
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_first_more
+#EXTINF:660,Osn Discovry HD
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/osn_discovry_hd
