@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:42,Al Janoubiya
-rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_janoubiya
+rtmp://$OPT:rtmp-raw=rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_janoubiya
 #EXTINF:22,Almustakillah TV
 rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_moustakilla
 #EXTINF:32,Ettounsiya TV
