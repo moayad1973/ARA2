@@ -1,1 +1,22 @@
 
+#EXTM3U
+#EXTINF:-1 group-title=”Arab”,SYRIA DRAMA
+http://149.11.90.99:4022/udp/238.21.16.48:5004
+#EXTINF:-1 group-title=”Arab”,Al Ikhbaria syria
+http://82.137.248.16:1935/Snews/SnewsLive3/playlist.m3u8
+#EXTINF:-1 group-title=”Arab”,Alikhbaria Syria
+rtmp://82.137.248.16/Snews/SnewsLive1
+#EXTINF:-1 group-title=”Arab”,Syrian News
+rtmp://82.137.248.16/Snews/SnewsLive2
+#EXTINF:-1 group-title=”Arab”,syria Al Oula TV
+rtmp://82.137.248.21/Aloula/AloulaLive2
+#EXTINF:-1 group-title=”Arab”, Syria Alouia
+http://82.137.248.21:1935/Aloula/AloulaLive1/playlist.m3u8
+#EXTINF:-1 group-title=”Arab”,Talaqie TV
+rtmp://82.137.248.20/Talaqie/TalaqieLive1
+#EXTINF:-1 group-title=”Arab”,Sama TV
+rtmp://sama-tv.net/live/samatv
+#EXTINF:-1 group-title=”Arab”, Syria Nour
+http://82.137.248.21:1935/Nour/NourLive1/playlist.m3u8
+#EXTINF:-1 group-title=”Arab”, Syria
+http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
