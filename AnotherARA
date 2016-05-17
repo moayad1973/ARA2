@@ -1,1 +1,5 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="EN: Al Jazeera English" tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_jazeera_english.png" group-title="English TV",EN: Al Jazeera English
+http://iptv.cline.in:80/live/testy2016/testy2016/218.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Jazeera" tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_jazeera_channel_qa.png" group-title="Arabic TV",AR: Al Jazeera
+http://iptv.cline.in:80/live/testy2016/testy2016/731.ts
